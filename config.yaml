@@ -1,0 +1,7 @@
+
+path: /Users/jamal/Desktop/mini/Computer_vision/openCV_learn\object detection using YOLO/data
+train: images/train
+val: images/train
+
+names:
+  0: thumbsup
